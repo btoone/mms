@@ -1,6 +1,6 @@
-Title: Audio Exercise Pitch
+Title:  Audio Exercise Pitch
 Author: Brandon Toone
-CSS: /Users/Brandon/desktop/mmd.css
+CSS:    http://github.com/btoone/mmd-stylesheet/raw/master/mmd.css
 
 # Introduction #
 
