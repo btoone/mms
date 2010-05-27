@@ -17,3 +17,7 @@ To use the style sheet simple link to it in the meta section of your markdown fi
     CSS:    http://github.com/btoone/mmd-stylesheet/raw/master/mmd.css
 
 My workflow is to edit a MMD file in TextMate and the preview it (ctrl + opt + cmd + p).  This renders the MMD file as HTML and uses the linked style sheet.  However there are several ways to render the HTML, see the [MMD site](http://fletcherpenney.net/multimarkdown/) for details.
+
+## Example ##
+
+You can see the generated HTML by downloading [this example](http://github.com/downloads/btoone/mmd-stylesheet/generated-html-from-mmd-example.html)
