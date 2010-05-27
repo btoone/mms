@@ -93,6 +93,9 @@ thead th {
   border-width: 0 0 2px 0;
   padding: 5px;
 }
+.h {
+  background: #d3e5ff;
+}
 thead > tr:last-child > th { border-style: none; }
 tbody > tr:first-child > td {
   border: solid gray;
