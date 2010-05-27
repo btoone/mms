@@ -6,7 +6,9 @@ This project contains the style sheet I use for Multimarkdown documents as well 
 
 ## Multimarkdown ##
 
-First you'll need to install Multimarkdown.  See the [site](http://fletcherpenney.net/multimarkdown/) for instructions on how to do that
+First you'll need to install Multimarkdown.  See the [site](http://fletcherpenney.net/multimarkdown/) for instructions on how to do that.
+
+You'll also need the [TextMate bundle](http://fletcher.github.com/markdown.tmbundle/) to generate the previews using MMD and not the built in Markdown
 
 ## Style Sheet ##
 
