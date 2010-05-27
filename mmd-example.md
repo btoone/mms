@@ -132,6 +132,15 @@ Fun at parties                      |  No[^parties] | Why not? |
 
 Minimum markup for maximum quality? |      Yes      |    No    |
 
+You can highlight rows by specifying and defining your own CSS class selector.
+Here I've specified `class='h'` and defined it in my custom MMD style sheet.
+
+<table>
+  <tr class='h'><td>Melts in warm places</td></tr>
+  <tr><td>Mistakes can be easily fixed</td></tr>
+  <tr class='h'><td>Easy to copy documents for friends</td></tr>
+  <tr><td>Fun at parties</td></tr>
+</table>
 
 
 [^parties]: I guess it depends on what kind of parties you go to...
